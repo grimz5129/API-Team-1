@@ -1,0 +1,16 @@
+{
+  "title": "TEAM ONE",
+  "description": "An Epic Development Team - Yefri, Kamil, George, Jakub, Ishmael",
+  "releaseYear": 2021,
+  "language": {
+    "id": 1
+  },
+  "originalLanguage": null,
+  "rentalDuration": 12,
+  "rentalRate": 2.99,
+  "length": 186,
+  "replacementCost": 25.99,
+  "rating": "PG",
+  "specialFeatures": "Deleted Scenes,Behind the Scenes",
+  "lastUpdate": "2021-12-15T05:03:42Z"
+}
